@@ -1,4 +1,3 @@
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 21: /bin/ps: Operation not permitted
 # Figure and panel quality protocol
 
 Use this protocol only for visual review or correction of difficult layouts.
