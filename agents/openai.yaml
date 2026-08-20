@@ -1,0 +1,5 @@
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 21: /bin/ps: Operation not permitted
+interface:
+  display_name: "Paper Figure Splitter"
+  short_description: "Extract and split publication figures cleanly"
+  default_prompt: "Use $paper-figure-splitter to extract every figure from this paper and split composite figures into clean panels."
