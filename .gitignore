@@ -1,0 +1,8 @@
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 21: /bin/ps: Operation not permitted
+.DS_Store
+.pytest_cache/
+.venv/
+__pycache__/
+*.py[cod]
+uv.lock
+out/
