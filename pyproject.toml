@@ -1,0 +1,22 @@
+/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 21: /bin/ps: Operation not permitted
+[project]
+name = "paper-figure-splitter"
+version = "0.1.0"
+description = "Codex skill and CLI for extracting scientific paper figures and splitting composite panels"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+  "beautifulsoup4>=4.12,<5",
+  "numpy>=1.26,<3",
+  "opencv-python-headless>=4.9,<5",
+  "Pillow>=10,<12",
+  "PyMuPDF>=1.24,<2",
+  "requests>=2.31,<3",
+]
+
+[dependency-groups]
+dev = ["pytest>=8,<9"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
