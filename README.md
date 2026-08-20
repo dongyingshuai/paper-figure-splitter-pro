@@ -1,4 +1,3 @@
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 21: /bin/ps: Operation not permitted
 # Paper Figure Splitter
 
 An open-source Codex Skill plus deterministic CLI for extracting scientific-paper figures and splitting composite figures into clean, non-overlapping panels.
