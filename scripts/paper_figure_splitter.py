@@ -1,4 +1,3 @@
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 21: /bin/ps: Operation not permitted
 #!/usr/bin/env python3
 """Extract scientific-paper figures and conservatively split composite panels."""
 
