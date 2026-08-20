@@ -1,4 +1,3 @@
-/opt/homebrew/Library/Homebrew/cmd/shellenv.sh: line 21: /bin/ps: Operation not permitted
 ---
 name: paper-figure-splitter
 description: Extract figures from scientific PDFs, article webpages, or image files and split composite figures into clean, non-overlapping panels. Use when preparing paper figures for slides, teaching, figure-by-figure explanation, or image datasets; keep intact any panel whose boundary is ambiguous.
